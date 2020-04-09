@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/msit-app/static/css/main.b1063904.chunk.css",
+    "main.js": "/msit-app/static/js/main.75f62baa.chunk.js",
+    "main.js.map": "/msit-app/static/js/main.75f62baa.chunk.js.map",
+    "runtime-main.js": "/msit-app/static/js/runtime-main.38d4a1d5.js",
+    "runtime-main.js.map": "/msit-app/static/js/runtime-main.38d4a1d5.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/msit-app/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.2ee950bc.chunk.js": "/msit-app/static/js/2.2ee950bc.chunk.js",
+    "static/js/2.2ee950bc.chunk.js.map": "/msit-app/static/js/2.2ee950bc.chunk.js.map",
+    "index.html": "/msit-app/index.html",
+    "precache-manifest.8b1b066b5a0a6076c85865f2eba0843b.js": "/msit-app/precache-manifest.8b1b066b5a0a6076c85865f2eba0843b.js",
+    "service-worker.js": "/msit-app/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/msit-app/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.b1063904.chunk.css.map": "/msit-app/static/css/main.b1063904.chunk.css.map",
+    "static/js/2.2ee950bc.chunk.js.LICENSE.txt": "/msit-app/static/js/2.2ee950bc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38d4a1d5.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.2ee950bc.chunk.js",
+    "static/css/main.b1063904.chunk.css",
+    "static/js/main.75f62baa.chunk.js"
+  ]
+}
